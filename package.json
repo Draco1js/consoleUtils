@@ -1,0 +1,17 @@
+{
+  "name": "mahconsolepwogwam",
+  "version": "1.0.0",
+  "description": "> 1. Download/Clone Files \r > 2. Download Node.js from [here](https://nodejs.org/en/)\r > 3. Open Command Prompt or PowerShell in the folder\r > 4. Run `node index.js` in the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "prompt-sync": "^4.2.0",
+    "quick.db": "^7.1.3"
+  }
+}
