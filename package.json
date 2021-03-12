@@ -1,13 +1,15 @@
 {
-  "name": "mahconsolepwogwam",
+  "name": "consoleutils",
   "version": "1.0.0",
-  "description": "> 1. Download/Clone Files \r > 2. Download Node.js from [here](https://nodejs.org/en/)\r > 3. Open Command Prompt or PowerShell in the folder\r > 4. Run `node index.js` in the console",
+  "description": "A cool Nodejs Console Program Framework by Draco#9899 @ Discord",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Console"
+  ],
+  "author": "Draco#9899 @Discord, Draco1js @GitHub",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
